@@ -1,0 +1,13 @@
+body {
+  background-color: aquamarine;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+.weather-app {
+  background-color: white;
+  max-width: 600px;
+  margin: 45px auot;
+  box-shadow: 0 30px 50px black;
+  padding: 30px;
+  border-radius: 10px;
+}
