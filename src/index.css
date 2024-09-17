@@ -48,6 +48,10 @@ main {
 .weather-app-details strong {
   color: rgb(250, 86, 220);
 }
+.weather-time {
+  color: rgb(250, 86, 220);
+  font-weight: bold;
+}
 .weather-app-temp-container {
   display: flex;
 }
